@@ -4,6 +4,9 @@ public class vowelConsonant{
         while(ch<='Z'){
             if(ch!='A'&& ch!='E'&& ch!='I'&& ch!='O'&& ch!='U'){
                 System.out.print(ch+" ");
+         
             }ch++;
+        }
     }
+
 }

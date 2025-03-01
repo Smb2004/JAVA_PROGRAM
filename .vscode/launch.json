@@ -5,6 +5,27 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "SumNaturalnum",
+            "request": "launch",
+            "mainClass": "SumNaturalnum",
+            "projectName": "JAVA PROGRAMMING_ff5ff10b"
+        },
+        {
+            "type": "java",
+            "name": "vowelConsonant",
+            "request": "launch",
+            "mainClass": "vowelConsonant",
+            "projectName": "JAVA PROGRAMMING_ff5ff10b"
+        },
+        {
+            "type": "java",
+            "name": "OddNumCount",
+            "request": "launch",
+            "mainClass": "OddNumCount",
+            "projectName": "JAVA PROGRAMMING_ff5ff10b"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"

@@ -1,2 +1,10 @@
 {
+    "jdk.java.imports.groups": [
+        "java",
+        "javax",
+        "org",
+        "com",
+        ""
+    ],
+    "jdk.runConfig.env": "path"
 }
