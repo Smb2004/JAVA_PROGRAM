@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SquareReverse",
+            "request": "launch",
+            "mainClass": "SquareReverse",
+            "projectName": "JAVA PROGRAMMING_ff5ff10b"
+        },
+        {
+            "type": "java",
             "name": "SumNaturalnum",
             "request": "launch",
             "mainClass": "SumNaturalnum",
