@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNum",
+            "request": "launch",
+            "mainClass": "PrimeNum",
+            "projectName": "JAVA PROGRAMMING_ff5ff10b"
+        },
+        {
+            "type": "java",
             "name": "OddNumSum",
             "request": "launch",
             "mainClass": "OddNumSum",
