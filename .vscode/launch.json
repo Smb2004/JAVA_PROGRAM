@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayDiagonalSum",
+            "request": "launch",
+            "mainClass": "ArrayDiagonalSum",
+            "projectName": "JAVA PROGRAMMING_ff5ff10b"
+        },
+        {
+            "type": "java",
             "name": "PrimeNum",
             "request": "launch",
             "mainClass": "PrimeNum",
