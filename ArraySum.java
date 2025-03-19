@@ -1,18 +1,18 @@
-import java.util.*;
+import java.io.*;
 public class ArraySum {
-    public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
+    public static void main(String[] args)throws IOException{
+        BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Enter rows:");
-        int rows=sc.nextInt();
+        int rows=Integer.parseInt(br.readLine());
         System.out.println("Enter Column:");
-        int column=sc.nextInt();
+        int column=Integer.parseInt(br.readLine());
 
         int arr[][]=new int[rows][column];
         System.out.println("Ente array Data:");
 
         for(int i=0;i<rows;i++){
             for(int j=0;j<column;j++){
-                arr[i][j]=sc.nextInt();
+                arr[i][j]=Integer.parseInt(br.readLine());
             }
         }
 
