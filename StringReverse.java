@@ -8,6 +8,7 @@ public class StringReverse{
                 StringBuffer str2=new StringBuffer(str1);
 
                 str2=str2.reverse();
-                System.out.println(str2);
+                str1=str2.toString();
+                System.out.println(str1);
         }
 }
