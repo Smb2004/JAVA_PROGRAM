@@ -6,7 +6,6 @@ public class StringReverse{
                 String str1=br.readLine();
 
                 StringBuffer str2=new StringBuffer(str1);
-
                 str2=str2.reverse();
                 str1=str2.toString();
                 System.out.println(str1);
