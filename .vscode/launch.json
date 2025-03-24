@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IntToString",
+            "request": "launch",
+            "mainClass": "IntToString",
+            "projectName": "JAVA PROGRAMMING_ff5ff10b"
+        },
+        {
+            "type": "java",
             "name": "StringPalindrome",
             "request": "launch",
             "mainClass": "StringPalindrome",
