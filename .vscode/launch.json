@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pattern8",
+            "request": "launch",
+            "mainClass": "Pattern8",
+            "projectName": "JAVA PROGRAMMING_ff5ff10b"
+        },
+        {
+            "type": "java",
             "name": "InstanceVariable",
             "request": "launch",
             "mainClass": "InstanceVariable",
